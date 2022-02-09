@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xd5a06208d5bcA2586c35969232e675F0E174EA7C",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xd5a06208d5bcA2586c35969232e675F0E174EA7C",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 80001
+  },
+  "NFT_NAME": "CURLY BEAR",
+  "SYMBOL": "NFT",
+  "MAX_SUPPLY": 300,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "/#",
+  "SHOW_BACKGROUND": true
+}
